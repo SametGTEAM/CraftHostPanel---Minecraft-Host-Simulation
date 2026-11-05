@@ -36,15 +36,8 @@ Bu projenin geliştirilme sürecinde **Gemini yapay zeka asistanlığı** ile bi
 
 Projeyi kendi bilgisayarınızda çalıştırmak oldukça basittir, herhangi bir `npm install` veya veritabanı kurulumu gerektirmez:
 
-1. Bu depoyu klonlayın:
-   ```bash
-   git clone https://github.com/SametGTEAM/CraftHostPanel---Minecraft-Host-Simulation
-   ```
-2. Proje klasörüne gidin:
-   ```bash
-   cd crafthost-panel
-   ```
-3. `index.html` dosyasını tarayıcınızda açın veya bir `Live Server` eklentisiyle çalıştırın.
+İndex.html dosyası Açık şekilde buradan indirip İnternetsiz kullanabilirsiniz;
+🔗: [google drive indirme linki](https://drive.google.com/file/d/1csw7bN7LGGNYM5r91DJ4ipL6bZ0mwe7b/view?usp=drivesdk)
 
 ---
 
