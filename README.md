@@ -23,7 +23,7 @@ Bu proje, gerçek bir hosting panelinin (Pterodactyl vb.) sunduğu kullanıcı d
 
 ## 🛠️ Kullanılan Teknolojiler
 
-Bu projenin geliştirilme sürecinde **Gemini yapay zeka asistanlığı** ile birlikte modern ön yüz teknolojileri harmanlanmıştır:
+Bu projenin geliştirilme sürecinde ile birlikte modern ön yüz teknolojileri harmanlanmıştır:
 
 * **HTML5:** Yapısal semantik bileşenler ve form yönetimi.
 * **CSS3:** Modern, duyarlı (responsive) ve karanlık mod odaklı oyuncu temalı arayüz tasarımı.
