@@ -1,4 +1,4 @@
-# CraftHostPanel---Minecraft-Host-Simulation
+²# CraftHostPanel---Minecraft-Host-Simulation
 Bir minecraft sunucu hostlama simulasyonu
 # CraftHost 🚀 | Minecraft Control Panel & Hosting Simulation
 
@@ -38,7 +38,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak oldukça basittir, herhangi bir
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/SametGTEAM/CraftHostPanel---Minecraft-Host-Simulation
    ```
 2. Proje klasörüne gidin:
    ```bash
