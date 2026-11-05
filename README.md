@@ -6,7 +6,7 @@ CraftHost, tamamen frontend teknolojileri kullanılarak geliştirilmiş, sunucu 
 
 Bu proje, gerçek bir hosting panelinin (Pterodactyl vb.) sunduğu kullanıcı deneyimini, kaynak yönetimini ve oyun ayarları mekanizmalarını tarayıcı üzerinde görsel ve dinamik bir illüzyonla canlandırmak amacıyla tasarlanmış **benzersiz (unique) bir frontend projesidir**.
 
-🔗 **Canlı Demo:** [crafthostpanel.netlify.app](https://netlify.app)
+🔗 **Canlı Demo:** [crafthostpanel.netlify.app](https://crafthostpanel.netlify.app)
 
 ---
 
